@@ -12,7 +12,7 @@ Use HMC630LP3E and Arduino Due
 
 # Accuracy
 - Phase Error: 3 degree OK @-32~--13dB
-- Aplitude Error: 2dB  NG @-32~--13dB
+- Aplitude Error: 2dB  @-32~--13dB
 
 ![image](https://github.com/uecken/Due-VectorModulator/blob/master/Due-Modulator.gif?raw=true)
 ![Picture](https://github.com/uecken/Due-VectorModulator/blob/master/accuracy.png?raw=true)

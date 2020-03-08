@@ -11,8 +11,8 @@ Use HMC630LP3E and Arduino Due
   Need to find minimum gain by searching I/Q. The I/Q is Vmi/Vmq.)
 
 # Accuracy
-- Phase Error: 3 degree OK @-32~--13dB
-- Aplitude Error: 2dB  @-32~--13dB
+- Phase: < 3 degree OK @-32~--13dB
+- Gain: < 2dB  @-32~--13dB
 
 ![image](https://github.com/uecken/Due-VectorModulator/blob/master/Due-Modulator.gif?raw=true)
 ![Picture](https://github.com/uecken/Due-VectorModulator/blob/master/accuracy.png?raw=true)

@@ -1,6 +1,5 @@
 # Due-VectorModulator
 Use HMC630LP3E and Arduino Due
-![image](https://github.com/uecken/Due-VectorModulator/blob/master/Due-Modulator.gif?raw=true)
 
 # Function
 - set gain,phase by "-20,90" via serial.
@@ -12,6 +11,8 @@ Use HMC630LP3E and Arduino Due
   Need to find minimum gain by searching I/Q. The I/Q is Vmi/Vmq.)
 
 #Accuracy
-- Phase Error: 2-3 degree OK
-- Aplitude Error: 5-10dB  NG
+- Phase Error: -3-3 degree OK @-32~--13dB
+- Aplitude Error: -2~2dB  NG @-32~--13dB
 
+![image](https://github.com/uecken/Due-VectorModulator/blob/master/Due-Modulator.gif?raw=true)
+![Picture(]https://github.com/uecken/Due-VectorModulator/blob/master/image.png?raw=true)

@@ -10,7 +10,7 @@ Use HMC630LP3E and Arduino Due
 - (Calibration, like  "cal,Q,1.35,1.36,0.01,1.49" via serial. 
   Need to find minimum gain by searching I/Q. The I/Q is Vmi/Vmq.)
 
-#Accuracy
+# Accuracy
 - Phase Error: -3-3 degree OK @-32~--13dB
 - Aplitude Error: -2~2dB  NG @-32~--13dB
 

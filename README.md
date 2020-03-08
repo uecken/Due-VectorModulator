@@ -16,4 +16,4 @@ Use HMC630LP3E and Arduino Due
 
 ![image](https://github.com/uecken/Due-VectorModulator/blob/master/Due-Modulator.gif?raw=true)
 ![Picture](https://github.com/uecken/Due-VectorModulator/blob/master/accuracy.png?raw=true)
-![Picture2](https://github.com/uecken/Due-VectorModulator/blob/master/Picture.jpg?raw=true)
+![Picture2](https://github.com/uecken/Due-VectorModulator/blob/master/Picture.png?raw=true)

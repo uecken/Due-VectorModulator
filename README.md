@@ -6,7 +6,7 @@ Use HMC630LP3E and Arduino Due
 - callibration by "cal,"
 - Phase Accuracy Check by "phase,-13"
 - Gain Accuracy Check by "Gain,0"
-- Cancellation changing Gain and Phase.
+- Auto Cancellation
 - (Calibration, like  "cal,Q,1.35,1.36,0.01,1.49" via serial. 
   Need to find minimum gain by searching I/Q. The I/Q is Vmi/Vmq.)
 
